@@ -1,0 +1,11 @@
+C:\Users\kelly\workspace\csharp\exercises\Employees\obj\Debug\netcoreapp3.0\Employees.csprojAssemblyReference.cache
+C:\Users\kelly\workspace\csharp\exercises\Employees\obj\Debug\netcoreapp3.0\Employees.AssemblyInfoInputs.cache
+C:\Users\kelly\workspace\csharp\exercises\Employees\obj\Debug\netcoreapp3.0\Employees.AssemblyInfo.cs
+C:\Users\kelly\workspace\csharp\exercises\Employees\bin\Debug\netcoreapp3.0\Employees.exe
+C:\Users\kelly\workspace\csharp\exercises\Employees\bin\Debug\netcoreapp3.0\Employees.deps.json
+C:\Users\kelly\workspace\csharp\exercises\Employees\bin\Debug\netcoreapp3.0\Employees.runtimeconfig.json
+C:\Users\kelly\workspace\csharp\exercises\Employees\bin\Debug\netcoreapp3.0\Employees.runtimeconfig.dev.json
+C:\Users\kelly\workspace\csharp\exercises\Employees\bin\Debug\netcoreapp3.0\Employees.dll
+C:\Users\kelly\workspace\csharp\exercises\Employees\bin\Debug\netcoreapp3.0\Employees.pdb
+C:\Users\kelly\workspace\csharp\exercises\Employees\obj\Debug\netcoreapp3.0\Employees.dll
+C:\Users\kelly\workspace\csharp\exercises\Employees\obj\Debug\netcoreapp3.0\Employees.pdb
